@@ -6,7 +6,8 @@
         "dimension.css",
         "dimension-v1.css",
         "dimension-v2.css",
-        "dimension-v3.css"
+        "dimension-v3.css",
+        "dimension-v4.css"
     ],
     "author": "Nicolas Gallagher",
     "license": "MIT"
